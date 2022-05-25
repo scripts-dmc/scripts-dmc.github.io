@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the Data Portal of the SCRIPTS Cluster of Excellence
+
+Here you can find information about past and ongoing SCRIPTS projects, and about data produced in these projects. 
+
+
 
 You can use the [editor on GitHub](https://github.com/scripts-dmc/scripts.data.portal.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
