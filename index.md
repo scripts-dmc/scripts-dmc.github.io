@@ -1,4 +1,4 @@
-## Welcome to the Data Portal of the SCRIPTS Cluster of Excellence
+## Data Portal of the SCRIPTS Cluster of Excellence
 
 Here you can find information about past and ongoing SCRIPTS projects, and about data produced in these projects. 
 
