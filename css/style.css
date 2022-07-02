@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *
 * ======================================================= */
 body {
@@ -1636,6 +1636,13 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .js .animate-box {
   opacity: 0;
+}
+
+div.horizontalgap {
+  float: left;
+  overflow: hidden;
+  height: 1px;
+  width: 0px;
 }
 
 /*# sourceMappingURL=style.css.map */
